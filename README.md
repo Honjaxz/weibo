@@ -1,5 +1,5 @@
 # weibo
-Replication materials for Xuanda Pei*, Tomoki Nakaya, Clive Sabel, Yuzuru Isoda*(2025).
+Replication materials for Xuanda Pei*, Yuzuru Isoda, Tomoki Nakaya, Clive Sabel*(2025).
 background sentiment analysis binary 
 
 **Computational requirement**
